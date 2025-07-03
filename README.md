@@ -1,7 +1,3 @@
-
-markdown
-Copy
-Edit
 # 🧠 Linux Kernel Process Scheduler Visualizer
 
 A Jupyter Notebook-based visual simulator for understanding **Linux process scheduling algorithms** such as **Round Robin (RR)** and **Completely Fair Scheduler (CFS)**. This project helps students, educators, and enthusiasts visualize how process scheduling works inside the Linux kernel.
